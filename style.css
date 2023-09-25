@@ -15,7 +15,8 @@
 .list-item {
 	width: auto;
 	text-align: center;
-	vertical-align: top;	
+	vertical-align: top;
+    background: red !important;	
 }
 
 .list-animal-photo-block {}
